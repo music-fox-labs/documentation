@@ -5,5 +5,5 @@ Documentation for Music Fox discord bot.
 ![botpfp](https://cdn.discordapp.com/attachments/1066619483877290001/1066678095794413618/IMG_0508.png)
 
 # bot banner 
-![botbanner](https://cdn.discordapp.com/attachments/1066619483877290001/1066678095794413618/IMG_0508.png)
+![botbanner](https://cdn.discordapp.com/attachments/1066619483877290001/1066678021479739452/IMG_0514.jpg)
 
